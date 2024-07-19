@@ -2,9 +2,10 @@
 No more Bamsec math problems.
 
 Setup:
-1. Go to "Manage Extensions" on Chrome.
-2. Check on "Developer Mode".
-3. "Load unpacked" and select the directory.
-4. Test it out.
+1. Clone this repo.
+2. Go to "Manage Extensions" on Chrome.
+3. Check on "Developer Mode".
+4. "Load unpacked" and select the cloned directory saved to your computer locally.
+5. Test it out.
 
 Flag any issues to Julia
