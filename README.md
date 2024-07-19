@@ -8,4 +8,4 @@ Setup:
 4. "Load unpacked" and select the cloned directory saved to your computer locally.
 5. Test it out. https://www.bamsec.com/
 
-Flag any issues to Julia
+Please flag any issues. All the elements and tags are currently hardcoded lol.
